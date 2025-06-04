@@ -1,22 +1,34 @@
-# Historia-dos-Tenis-da-Nike
+# Nike Sneakers History - Responsive Navigation Menu
 
-![Capa do projeto](imagens/capa.png)
+## Project Overview
 
-Projeto: Menu do Site - História do Tênis da Nike
-Este projeto é um menu de navegação estilizado e responsivo, desenvolvido com HTML e CSS puro, inspirado na história dos tênis da Nike.
+This project features a stylized and responsive navigation menu, built with pure HTML and CSS, inspired by the rich history and sporty theme of Nike sneakers.
 
-Funcionalidades:
-Design temático inspirado no estilo esportivo da Nike.
-Estrutura semântica e intuitiva para facilitar a navegação.
-Menu responsivo que se adapta a dispositivos móveis, tablets e desktops.
-Efeitos visuais e transições suaves para melhorar a experiência do usuário.
-Objetivo do projeto:
-Explorar conceitos de design responsivo e estilização temática, como:
+## Features
 
-![Conteúdo do projeto](imagens/conteudo.png)
+- **Nike-Inspired Sporty Design:** The layout and color palette reflect Nike's iconic branding and athletic style.
+- **Semantic and Intuitive Structure:** The markup follows semantic HTML practices, ensuring both accessibility and straightforward navigation.
+- **Fully Responsive Menu:** The navigation adapts seamlessly to mobile devices, tablets, and desktops.
+- **Smooth Visual Effects:** CSS transitions and visual effects enhance user interaction and overall experience.
 
-Uso de media queries para adaptabilidade.
-Criação de transições e interatividade com CSS.
-Prática de boas práticas de HTML e CSS na criação de menus de navegação.
-Este menu é perfeito para um site que apresenta a história dos tênis da Nike, combinando funcionalidade e estilo esportivo.
+## Project Objectives
 
+The primary goal of this project is to explore and apply responsive design concepts and thematic styling, including:
+
+- Using media queries for adaptive layouts across different devices
+- Implementing CSS transitions and interactive elements
+- Practicing best practices in HTML and CSS for building navigation menus
+
+## Ideal Use Case
+
+This responsive menu is perfectly suited for websites showcasing the history of Nike sneakers, combining both functionality and a sporty aesthetic.
+
+## Getting Started
+
+1. **Clone or download the repository.**
+2. Open the `index.html` file in your web browser.
+3. Customize styles in `style.css` to match your needs or branding.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
